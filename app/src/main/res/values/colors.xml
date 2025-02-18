@@ -2,4 +2,12 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="lightOrange">#FFFF9F00</color>
+    <color name="linkBlue">#3498DB</color>
+    <color name="lightBackground">#F4F4F4</color>
+    <color name="inputBackground">#ECECEC</color>
+    <color name="inputBorder">#5DADE2</color>
+    <color name="textColor">#2C3E50</color>
+    <color name="buttonColor">#2980B9</color>
+    <color name="accentGray">#BDC3C7</color>
 </resources>
